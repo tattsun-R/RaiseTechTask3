@@ -1,0 +1,3 @@
+# RaiseTechTask3
+バンドのメンバー紹介を順番に行っています。
+java.util.LinkedHashMapは、null値を許す仕様であることから、無理やり例外を起こすため、Mapを2つ作成し、片方にはnullを設定しています。
